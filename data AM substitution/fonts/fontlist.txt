@@ -1,0 +1,7 @@
+fa_fonts/Masterbreaker3D.ttf
+fa_fonts/BodocapsdbNormal.ttf
+fa_fonts/Megan.ttf
+fa_fonts/Kotayk-Regular.ttf
+fa_fonts/RHCAS.ttf
+fa_fonts/RiccioneserialXlightItalic.ttf
+fa_fonts/ZatariRegular.ttf

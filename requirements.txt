@@ -1,0 +1,15 @@
+cycler==0.10.0
+h5py==3.12.1 # changed
+matplotlib==3.9.2 # changed
+numpy==2.1.2 # changed due to matplotlib requirements
+Pillow==10.4.0 # changed due to matplotlib requirements
+pygame==2.6.1 # changed
+pyparsing==3.2.0 # changed due to matplotlib requirements
+python-dateutil==2.9.0 # changed due to matplotlib requirements
+pytz==2017.3
+scipy==1.14.1 # changed
+six==1.11.0
+wget==3.2
+ipykernel==6.29.5 # changed
+opencv-python==4.10.0.84 # changed
+tqdm==4.64.1
