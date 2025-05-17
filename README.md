@@ -1,10 +1,6 @@
-# This branch is experimental
-This is an attempt to migrate this project over to newer versions of python.
-Right now it doesn't work properly - new versions of libraries broke word and character bounding boxes detection somewhere deep in the code, more time is needed to figure this out
-
 # Proper instruction for running the project
 1. Virtual Environment setup (I use anaconda)
-  - `python=3.10`
+  - `python=3.6`
   - `pip install -r requirements.txt`
 2. Setting up `data/` folder
   - copy everything from `data AM substitution/` into `data/`
@@ -30,7 +26,7 @@ Changes:
   - now everything that you need to run is inside Jupyter Notebooks
   - all python modules where moved to `SynthTextCore` local package 
 
-Environment requirements can be found in `requirements.txt`, python==3.10
+Environment requirements can be found in `requirements.txt`, python==3.6
 Use notebooks to run this project
 
 For information about original repository consult [it's README](https://github.com/ankush-me/SynthText)

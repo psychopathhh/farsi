@@ -515,7 +515,7 @@ class RendererV3(object):
         bb = self.homographyBB(bb,Hinv)
 
         if not self.bb_filter(bb_orig,bb,text):
-            warn("bad charBB statistics")
+            #warn("bad charBB statistics")
             return #None
 
         # get the minimum height of the character-BB:

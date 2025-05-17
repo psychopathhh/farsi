@@ -1,7 +1,10 @@
-fa_fonts/Masterbreaker3D.ttf
-fa_fonts/BodocapsdbNormal.ttf
-fa_fonts/Megan.ttf
-fa_fonts/Kotayk-Regular.ttf
-fa_fonts/RHCAS.ttf
-fa_fonts/RiccioneserialXlightItalic.ttf
-fa_fonts/ZatariRegular.ttf
+arm_fonts/FreeSans.ttf
+arm_fonts/FreeSansBoldOblique.ttf
+arm_fonts/Kotayk-Italic.ttf
+arm_fonts/Kotayk-Regular.ttf
+arm_fonts/Mshtakan.ttf
+arm_fonts/MshtakanBold.ttf
+arm_fonts/MshtakanBoldOblique.ttf
+arm_fonts/MshtakanOblique.ttf
+arm_fonts/Oldtimer.ttf
+arm_fonts/NasaFont.ttf
